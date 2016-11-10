@@ -56,10 +56,9 @@ public class Mercadona {
         }
         System.out.println(suma/elementos);
     }
-
-    /**
-     * @param args the command line arguments
-     */
+  //esto es una prueba para repositorios en github  
+    
+    
     public static void main(String[] args) {
         rellenarDatos();
         mostrarTodosLosProductos();
